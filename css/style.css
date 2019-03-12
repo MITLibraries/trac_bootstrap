@@ -37,12 +37,12 @@ body h3 {
 }
 
 a[href^="http://"] {
-  background: url('/trac/sites/all/themes/trac_bootstrap/images/external_link.png') no-repeat right;
+  background: url('/sites/all/themes/trac_bootstrap/images/external_link.png') no-repeat right;
   padding-right: 20px;
 }
 a[href^="http://"]:hover,
 a[href^="http://"]:focus {
-  background: url('/trac/sites/all/themes/trac_bootstrap/images/external_link_hover.png') no-repeat right;
+  background: url('/sites/all/themes/trac_bootstrap/images/external_link_hover.png') no-repeat right;
 }
 
 /* Front Page Tables */
